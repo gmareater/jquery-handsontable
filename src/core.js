@@ -1,3 +1,5 @@
+//Starting The Sample
+
 Handsontable.activeGuid = null;
 
 /**
